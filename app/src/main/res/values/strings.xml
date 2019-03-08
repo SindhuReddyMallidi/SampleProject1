@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleProject1</string>
+    <string name="happy_birthday">HAPPY BIRTHDAY</string>
+    <string name="to">To:</string>
+    <string name="enter_your_friend_name_here">Enter your friend name here</string>
+    <string name="from">From:</string>
+    <string name="enter_your_name_here">Enter your name here</string>
+    <string name="generatecard">GenerateCard</string>
+    <string name="tostring">to</string>
+    <string name="fromstring">from</string>
+</resources>

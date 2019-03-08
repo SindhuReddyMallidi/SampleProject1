@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsizemain">30sp</dimen>
+    <dimen name="marginbt">20dp</dimen>
+    <dimen name="marginht">30dp</dimen>
+    <dimen name="textviewww">40dp</dimen>
+    <dimen name="widthmar">70dp</dimen>
+    <dimen name="tsmain">25sp</dimen>
+    <dimen name="mainedit">10dp</dimen>
+    <dimen name="secondmb">150dp</dimen>
+    <dimen name="sizesecond">40sp</dimen>
+    <dimen name="secpbb">100dp</dimen>
+    <dimen name="textsizeqwer">20sp</dimen>
+</resources>
